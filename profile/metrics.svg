@@ -17,7 +17,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            Joined GitHub 6 months ago
+                            Joined GitHub 7 months ago
                         </div>
                     </section>
                     <section>
@@ -328,7 +328,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 31 Dec 2022, 00:17:48  with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 1 Jan 2023, 00:20:59  with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
